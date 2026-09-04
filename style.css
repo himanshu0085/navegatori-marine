@@ -500,3 +500,13 @@ img { max-width: 100%; display: block; }
   height: 40px;
   max-height: 40px;
 }
+
+.logo-name {
+  font-family: var(--ff-head);
+  font-size: 0.88rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  color: rgba(255, 255, 255, 0.82);
+  line-height: 1.2;
+  white-space: nowrap;
+}
