@@ -491,11 +491,8 @@ img { max-width: 100%; display: block; }
 }
 
 .logo-img {
-  height: 52px;
+  height: 48px;
   width: auto;
-  background: #fff;
-  padding: 4px 8px;
-  border-radius: 4px;
 }
 .logo-img-footer {
   height: 40px;
