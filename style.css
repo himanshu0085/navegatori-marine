@@ -489,3 +489,14 @@ img { max-width: 100%; display: block; }
   .footer-inner { flex-direction: column; text-align: center; }
   .footer-links { flex-direction: column; gap: 8px; align-items: center; }
 }
+
+.logo-img {
+  height: 52px;
+  width: auto;
+  background: #fff;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+.logo-img-footer {
+  height: 40px;
+}
